@@ -1,0 +1,17 @@
+# built-in modules
+import string
+import math
+import this
+
+print(string.ascii_letters)
+print(string.ascii_lowercase)
+print(string.ascii_uppercase)
+print(string.digits)
+print(string.capwords("Hello there"))
+
+print(math.ceil(4.5))
+print(math.floor(4.8))
+print(math.sqrt(4))
+print(math.pi)
+
+
