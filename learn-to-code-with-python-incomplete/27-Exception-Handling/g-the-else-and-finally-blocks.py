@@ -1,6 +1,6 @@
 # else: execute only if the try block execute without error
 
-# x = 10
+x = 10
 
 try:
     print(x + 1)
